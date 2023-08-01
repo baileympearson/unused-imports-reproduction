@@ -1,0 +1,6 @@
+node_modules
+dist
+lib
+temp
+*.d.ts
+tsdoc-metadata.json
